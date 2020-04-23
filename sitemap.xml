@@ -61,6 +61,10 @@
   </url>
   
   <url>
+    <loc>https://bfan.github.io/tags/binary-features/</loc>
+  </url>
+  
+  <url>
     <loc>https://bfan.github.io/categories/</loc>
   </url>
   
@@ -70,6 +74,10 @@
   
   <url>
     <loc>https://bfan.github.io/publication/pr2020/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/feature-matching/</loc>
   </url>
   
   <url>
@@ -86,6 +94,18 @@
   
   <url>
     <loc>https://bfan.github.io/authors/junwei-han/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/kdtree/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/large-scale-approximate-nearest-neighbor-search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/locality-preserving-projection/</loc>
   </url>
   
   <url>

@@ -108,12 +108,27 @@
   </url>
   
   <url>
+    <loc>https://bfan.github.io/tags/feature-descriptor/</loc>
+    <lastmod>2019-06-16T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/fuchao-wu/</loc>
+    <lastmod>2019-06-16T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bfan.github.io/tags/geometric-relation-learning/</loc>
     <lastmod>2019-06-16T00:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bfan.github.io/publication/4-cvpr2019-psla/</loc>
+    <loc>https://bfan.github.io/authors/huub-heijnen/</loc>
+    <lastmod>2019-06-16T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/image-matching/</loc>
     <lastmod>2019-06-16T00:00:00+08:00</lastmod>
   </url>
   
@@ -123,7 +138,22 @@
   </url>
   
   <url>
+    <loc>https://bfan.github.io/publication/5-cvpr2019-sosnet/</loc>
+    <lastmod>2019-06-16T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/xin-yu/</loc>
+    <lastmod>2019-06-16T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bfan.github.io/authors/yongcheng-liu/</loc>
+    <lastmod>2019-06-16T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/yurun-tian/</loc>
     <lastmod>2019-06-16T00:00:00+08:00</lastmod>
   </url>
   
@@ -185,6 +215,10 @@
   
   <url>
     <loc>https://bfan.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/vassileios-balntassup/sup/</loc>
   </url>
   
   <url>

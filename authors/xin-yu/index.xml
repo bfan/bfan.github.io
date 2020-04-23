@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning | Bin Fan</title>
-    <link>https://bfan.github.io/tags/deep-learning/</link>
-      <atom:link href="https://bfan.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Deep Learning</description>
+    <title>Xin Yu | Bin Fan</title>
+    <link>https://bfan.github.io/authors/xin-yu/</link>
+      <atom:link href="https://bfan.github.io/authors/xin-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xin Yu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 Jun 2019 00:00:00 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Deep Learning</title>
-      <link>https://bfan.github.io/tags/deep-learning/</link>
+      <title>Xin Yu</title>
+      <link>https://bfan.github.io/authors/xin-yu/</link>
     </image>
-    
-    <item>
-      <title>Relation-Shape Convolutional Neural Network for Point Cloud Analysis</title>
-      <link>https://bfan.github.io/publication/4-cvpr2019-rscnn/</link>
-      <pubDate>Sun, 16 Jun 2019 00:00:00 +0800</pubDate>
-      <guid>https://bfan.github.io/publication/4-cvpr2019-rscnn/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>SOSNet: Second Order Similarity Regularization for Local Descriptor Learning</title>

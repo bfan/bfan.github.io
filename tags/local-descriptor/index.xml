@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Source Themes | Bin Fan</title>
-    <link>https://bfan.github.io/tags/source-themes/</link>
-      <atom:link href="https://bfan.github.io/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
-    <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <title>Local Descriptor | Bin Fan</title>
+    <link>https://bfan.github.io/tags/local-descriptor/</link>
+      <atom:link href="https://bfan.github.io/tags/local-descriptor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Local Descriptor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Source Themes</title>
-      <link>https://bfan.github.io/tags/source-themes/</link>
+      <title>Local Descriptor</title>
+      <link>https://bfan.github.io/tags/local-descriptor/</link>
     </image>
     
     <item>
-      <title>An example conference paper: XXX</title>
-      <link>https://bfan.github.io/publication/test/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/test/</guid>
+      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
+      <link>https://bfan.github.io/publication/tcsvt2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/tcsvt2020/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

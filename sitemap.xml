@@ -18,12 +18,12 @@
   </url>
   
   <url>
-    <loc>https://bfan.github.io/authors/bin-fan/</loc>
+    <loc>https://bfan.github.io/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bfan.github.io/</loc>
+    <loc>https://bfan.github.io/authors/bin-fan/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://bfan.github.io/publication/pr2020/</loc>
+    <loc>https://bfan.github.io/publication/3-pr2020/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -138,6 +138,11 @@
   </url>
   
   <url>
+    <loc>https://bfan.github.io/authors/shiming-xiang/</loc>
+    <lastmod>2019-06-16T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bfan.github.io/publication/5-cvpr2019-sosnet/</loc>
     <lastmod>2019-06-16T00:00:00+08:00</lastmod>
   </url>
@@ -159,22 +164,6 @@
   
   <url>
     <loc>https://bfan.github.io/authors/admin/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/publication/test/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/tags/source-themes/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -186,7 +175,7 @@
   </url>
   
   <url>
-    <loc>https://bfan.github.io/authors/shiming-xianghttps/scholar.google.com/citationsuser0ggsaceaaaajhlzh-cn/</loc>
+    <loc>https://bfan.github.io/tags/adversarial-learning/</loc>
   </url>
   
   <url>
@@ -194,11 +183,19 @@
   </url>
   
   <url>
-    <loc>https://bfan.github.io/publication/tcsvt2020/</loc>
+    <loc>https://bfan.github.io/tags/domain-adaptation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/1-tcsvt2020/</loc>
   </url>
   
   <url>
     <loc>https://bfan.github.io/authors/junwei-han/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/liang-yan/</loc>
   </url>
   
   <url>
@@ -215,6 +212,14 @@
   
   <url>
     <loc>https://bfan.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/semantic-segmentation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/2-tgrs2020/</loc>
   </url>
   
   <url>

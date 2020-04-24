@@ -4,16 +4,76 @@
   
   <url>
     <loc>https://bfan.github.io/authors/bin-fan/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bfan.github.io/publication_types/2/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bfan.github.io/authors/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/binary-features/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/1-tcsvt2020/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/hongmin-liu/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/junwei-han/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/local-descriptor/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication_types/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/qianqian-zhang/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/zhiheng-wang/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/adversarial-learning/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,17 +83,17 @@
   </url>
   
   <url>
-    <loc>https://bfan.github.io/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/tags/binary-features/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bfan.github.io/authors/chunhong-pan/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/chunlei-huo/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/domain-adaptation/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -44,11 +104,6 @@
   
   <url>
     <loc>https://bfan.github.io/tags/feature-matching/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/authors/hongmin-liu/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,17 +123,12 @@
   </url>
   
   <url>
+    <loc>https://bfan.github.io/authors/liang-yan/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bfan.github.io/tags/locality-preserving-projection/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/publication_types/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/publication/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,7 +138,17 @@
   </url>
   
   <url>
-    <loc>https://bfan.github.io/tags/</loc>
+    <loc>https://bfan.github.io/tags/semantic-segmentation/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/shiming-xiang/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/2-tgrs2020/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -139,11 +199,6 @@
   
   <url>
     <loc>https://bfan.github.io/publication/4-cvpr2019-rscnn/</loc>
-    <lastmod>2019-06-16T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/authors/shiming-xiang/</loc>
     <lastmod>2019-06-16T00:00:00+08:00</lastmod>
   </url>
   

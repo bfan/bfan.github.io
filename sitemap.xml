@@ -169,17 +169,17 @@
   
   <url>
     <loc>https://bfan.github.io/tags/local-feature/</loc>
-    <lastmod>2011-11-06T00:00:00+08:00</lastmod>
+    <lastmod>2011-11-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bfan.github.io/publication/4-iccv2011/</loc>
-    <lastmod>2011-11-06T00:00:00+08:00</lastmod>
+    <lastmod>2011-11-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bfan.github.io/authors/zhenhua-wang/</loc>
-    <lastmod>2011-11-06T00:00:00+08:00</lastmod>
+    <lastmod>2011-11-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -260,35 +260,7 @@
   </url>
   
   <url>
-    <loc>https://bfan.github.io/tags/adversarial-learning/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/tags/domain-adaptation/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/publication/1-tcsvt2020/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/authors/junwei-han/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/authors/liang-yan/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/tags/local-descriptor/</loc>
-  </url>
-  
-  <url>
     <loc>https://bfan.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/authors/qianqian-zhang/</loc>
   </url>
   
   <url>
@@ -296,19 +268,7 @@
   </url>
   
   <url>
-    <loc>https://bfan.github.io/tags/semantic-segmentation/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/publication/2-tgrs2020/</loc>
-  </url>
-  
-  <url>
     <loc>https://bfan.github.io/authors/vassileios-balntassup/sup/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/authors/zhiheng-wang/</loc>
   </url>
   
 </urlset>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Local Feature | Bin Fan</title>
-    <link>https://bfan.github.io/tags/local-feature/</link>
-      <atom:link href="https://bfan.github.io/tags/local-feature/index.xml" rel="self" type="application/rss+xml" />
-    <description>Local Feature</description>
+    <title>Zhenhua Wang | Bin Fan</title>
+    <link>https://bfan.github.io/authors/zhenhua-wang/</link>
+      <atom:link href="https://bfan.github.io/authors/zhenhua-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhenhua Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Sun, 06 Nov 2011 00:00:00 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Local Feature</title>
-      <link>https://bfan.github.io/tags/local-feature/</link>
+      <title>Zhenhua Wang</title>
+      <link>https://bfan.github.io/authors/zhenhua-wang/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://bfan.github.io/publication/4-iccv2011/</link>
       <pubDate>Sun, 06 Nov 2011 00:00:00 +0800</pubDate>
       <guid>https://bfan.github.io/publication/4-iccv2011/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aggregating Gradient Distributions into Intensity Orders: A Novel Local Image Descriptor</title>
-      <link>https://bfan.github.io/publication/3-cvpr2011/</link>
-      <pubDate>Sat, 25 Jun 2011 00:00:00 +0800</pubDate>
-      <guid>https://bfan.github.io/publication/3-cvpr2011/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://bfan.github.io/publication/</link>
       <atom:link href="https://bfan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
@@ -33,6 +33,38 @@
       <link>https://bfan.github.io/publication/5-cvpr2019-sosnet/</link>
       <pubDate>Sun, 16 Jun 2019 00:00:00 +0800</pubDate>
       <guid>https://bfan.github.io/publication/5-cvpr2019-sosnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aggregating Gradient Distributions into Intensity Orders: A Novel Local Image Descriptor</title>
+      <link>https://bfan.github.io/publication/3-cvpr2011/</link>
+      <pubDate>Sat, 25 Jun 2011 00:00:00 +0800</pubDate>
+      <guid>https://bfan.github.io/publication/3-cvpr2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Line matching leveraged by point correspondences</title>
+      <link>https://bfan.github.io/publication/2-cvpr2010/</link>
+      <pubDate>Sun, 13 Jun 2010 00:00:00 +0800</pubDate>
+      <guid>https://bfan.github.io/publication/2-cvpr2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Normalized LDA for Semi-supervised Learning</title>
+      <link>https://bfan.github.io/publication/1-fg2008/</link>
+      <pubDate>Wed, 17 Sep 2008 00:00:00 +0800</pubDate>
+      <guid>https://bfan.github.io/publication/1-fg2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
+      <link>https://bfan.github.io/publication/1-tcsvt2020-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/1-tcsvt2020-%E5%89%AF%E6%9C%AC/</guid>
       <description></description>
     </item>
     

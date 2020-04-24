@@ -5,12 +5,20 @@
     <link>https://bfan.github.io/authors/junwei-han/</link>
       <atom:link href="https://bfan.github.io/authors/junwei-han/index.xml" rel="self" type="application/rss+xml" />
     <description>Junwei Han</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Junwei Han</title>
       <link>https://bfan.github.io/authors/junwei-han/</link>
     </image>
+    
+    <item>
+      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
+      <link>https://bfan.github.io/publication/1-tcsvt2020-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/1-tcsvt2020-%E5%89%AF%E6%9C%AC/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>

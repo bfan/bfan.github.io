@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bfan.github.io/authors/bin-fan/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bfan.github.io/publication_types/2/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -19,11 +24,6 @@
   
   <url>
     <loc>https://bfan.github.io/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/authors/bin-fan/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,6 +168,76 @@
   </url>
   
   <url>
+    <loc>https://bfan.github.io/publication/3-cvpr2011/</loc>
+    <lastmod>2011-06-25T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/categories/</loc>
+    <lastmod>2011-06-25T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/local-feature/</loc>
+    <lastmod>2011-06-25T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/categories/select/</loc>
+    <lastmod>2011-06-25T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/zhanyi-hu/</loc>
+    <lastmod>2011-06-25T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/affine-invariant/</loc>
+    <lastmod>2010-06-13T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/line-matching/</loc>
+    <lastmod>2010-06-13T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/2-cvpr2010/</loc>
+    <lastmod>2010-06-13T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/dimension-reduction/</loc>
+    <lastmod>2008-09-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/feature-extraction/</loc>
+    <lastmod>2008-09-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/1-fg2008/</loc>
+    <lastmod>2008-09-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/stan-z.-li/</loc>
+    <lastmod>2008-09-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/unsupervised-learning/</loc>
+    <lastmod>2008-09-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/zhen-lei/</loc>
+    <lastmod>2008-09-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bfan.github.io/authors/admin/</loc>
   </url>
   
@@ -184,11 +254,11 @@
   </url>
   
   <url>
-    <loc>https://bfan.github.io/categories/</loc>
+    <loc>https://bfan.github.io/tags/domain-adaptation/</loc>
   </url>
   
   <url>
-    <loc>https://bfan.github.io/tags/domain-adaptation/</loc>
+    <loc>https://bfan.github.io/publication/1-tcsvt2020-%E5%89%AF%E6%9C%AC/</loc>
   </url>
   
   <url>

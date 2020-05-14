@@ -5,7 +5,7 @@
     <link>https://bfan.github.io/tags/convolutional-neural-networks/</link>
       <atom:link href="https://bfan.github.io/tags/convolutional-neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>Convolutional Neural Networks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Sun, 16 Jun 2019 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Convolutional Neural Networks</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Guiding the Flowing of Semantics: Interpretable Video Captioning via POS Tag</title>
+      <link>https://bfan.github.io/publication/conf-21-emnlp2019/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0800</pubDate>
+      <guid>https://bfan.github.io/publication/conf-21-emnlp2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DensePoint: Learning Densely Contextual Representation for Efficient Point Cloud Processing</title>
+      <link>https://bfan.github.io/publication/conf-20-iccv2019-densepoint/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0800</pubDate>
+      <guid>https://bfan.github.io/publication/conf-20-iccv2019-densepoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive Sparse Local Attention for Video Object Detection</title>
+      <link>https://bfan.github.io/publication/conf-19-iccv2019-psla/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0800</pubDate>
+      <guid>https://bfan.github.io/publication/conf-19-iccv2019-psla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Relation-Shape Convolutional Neural Network for Point Cloud Analysis</title>
-      <link>https://bfan.github.io/publication/4-cvpr2019-rscnn/</link>
+      <link>https://bfan.github.io/publication/conf-18-cvpr2019-rscnn/</link>
       <pubDate>Sun, 16 Jun 2019 00:00:00 +0800</pubDate>
-      <guid>https://bfan.github.io/publication/4-cvpr2019-rscnn/</guid>
+      <guid>https://bfan.github.io/publication/conf-18-cvpr2019-rscnn/</guid>
       <description></description>
     </item>
     

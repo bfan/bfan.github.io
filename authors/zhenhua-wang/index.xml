@@ -5,12 +5,36 @@
     <link>https://bfan.github.io/authors/zhenhua-wang/</link>
       <atom:link href="https://bfan.github.io/authors/zhenhua-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhenhua Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Sun, 06 Nov 2011 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Zhenhua Wang</title>
       <link>https://bfan.github.io/authors/zhenhua-wang/</link>
     </image>
+    
+    <item>
+      <title>Cayley-Klein Metric Learning with Shrinkage-Expansion Constraints</title>
+      <link>https://bfan.github.io/publication/conf-16-icpr2018/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/conf-16-icpr2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affine Subspace Representation for Feature Description</title>
+      <link>https://bfan.github.io/publication/conf-7-eccv2014/</link>
+      <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/conf-7-eccv2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FRIF: Fast Robust Invariant Feature</title>
+      <link>https://bfan.github.io/publication/conf-5-bmvc2013/</link>
+      <pubDate>Mon, 09 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/conf-5-bmvc2013/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Local Intensity Order Pattern for Feature Description</title>

@@ -154,22 +154,82 @@
   
   <url>
     <loc>https://bfan.github.io/publication_types/1/</loc>
-    <lastmod>2019-06-16T00:00:00+08:00</lastmod>
+    <lastmod>2019-11-03T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://bfan.github.io/tags/3d-point-cloud-processing/</loc>
-    <lastmod>2019-06-16T00:00:00+08:00</lastmod>
+    <lastmod>2019-11-03T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://bfan.github.io/tags/convolutional-neural-networks/</loc>
-    <lastmod>2019-06-16T00:00:00+08:00</lastmod>
+    <lastmod>2019-11-03T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://bfan.github.io/tags/deep-learning/</loc>
-    <lastmod>2019-06-16T00:00:00+08:00</lastmod>
+    <lastmod>2019-11-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/geometric-relation-learning/</loc>
+    <lastmod>2019-11-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/conf-21-emnlp2019/</loc>
+    <lastmod>2019-11-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/lingfeng-wang/</loc>
+    <lastmod>2019-11-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/xinyu-xiao/</loc>
+    <lastmod>2019-11-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/chaoxu-guo/</loc>
+    <lastmod>2019-10-27T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/conf-20-iccv2019-densepoint/</loc>
+    <lastmod>2019-10-27T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/gaofeng-meng/</loc>
+    <lastmod>2019-10-27T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/jie-gu/</loc>
+    <lastmod>2019-10-27T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/conf-19-iccv2019-psla/</loc>
+    <lastmod>2019-10-27T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/qian-zhang/</loc>
+    <lastmod>2019-10-27T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/veronique-prinet/</loc>
+    <lastmod>2019-10-27T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/yongcheng-liu/</loc>
+    <lastmod>2019-10-27T00:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -179,11 +239,6 @@
   
   <url>
     <loc>https://bfan.github.io/authors/fuchao-wu/</loc>
-    <lastmod>2019-06-16T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/tags/geometric-relation-learning/</loc>
     <lastmod>2019-06-16T00:00:00+08:00</lastmod>
   </url>
   
@@ -198,12 +253,12 @@
   </url>
   
   <url>
-    <loc>https://bfan.github.io/publication/4-cvpr2019-rscnn/</loc>
+    <loc>https://bfan.github.io/publication/conf-18-cvpr2019-rscnn/</loc>
     <lastmod>2019-06-16T00:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bfan.github.io/publication/5-cvpr2019-sosnet/</loc>
+    <loc>https://bfan.github.io/publication/conf-17-cvpr2019-sosnet/</loc>
     <lastmod>2019-06-16T00:00:00+08:00</lastmod>
   </url>
   
@@ -213,27 +268,127 @@
   </url>
   
   <url>
-    <loc>https://bfan.github.io/authors/yongcheng-liu/</loc>
-    <lastmod>2019-06-16T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bfan.github.io/authors/yurun-tian/</loc>
     <lastmod>2019-06-16T00:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bfan.github.io/tags/local-feature/</loc>
-    <lastmod>2011-11-06T00:00:00+00:00</lastmod>
+    <loc>https://bfan.github.io/publication/conf-15-icip2018/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bfan.github.io/publication/conf-4-iccv2011/</loc>
-    <lastmod>2011-11-06T00:00:00+00:00</lastmod>
+    <loc>https://bfan.github.io/tags/local-feature/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/conf-16-icpr2018/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bfan.github.io/authors/zhenhua-wang/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/conf-14-icip2017-casnet/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/jun-bai/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/conf-13-icip2017-hashing/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/zisha-zhong/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/conf-12-cvpr2017/</loc>
+    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/conf-11-iccv2015/</loc>
+    <lastmod>2015-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/kun-ding/</loc>
+    <lastmod>2015-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/conf-8-cvpr2015/</loc>
+    <lastmod>2015-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/yanhong-bi/</loc>
+    <lastmod>2015-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/guoli-wang/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/conf-9-icassp2015/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/conf-10-aaai2015/</loc>
+    <lastmod>2015-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/feiyun-zhu/</loc>
+    <lastmod>2015-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/xinliang-zhu/</loc>
+    <lastmod>2015-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/ying-wang/</loc>
+    <lastmod>2015-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/conf-7-eccv2014/</loc>
+    <lastmod>2014-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/conf-5-bmvc2013/</loc>
+    <lastmod>2013-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/conf-6-icassp2013/</loc>
+    <lastmod>2013-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/authors/xiaotong-yuan/</loc>
+    <lastmod>2013-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/publication/conf-4-iccv2011/</loc>
     <lastmod>2011-11-06T00:00:00+00:00</lastmod>
   </url>
   

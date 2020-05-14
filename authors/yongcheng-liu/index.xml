@@ -5,7 +5,7 @@
     <link>https://bfan.github.io/authors/yongcheng-liu/</link>
       <atom:link href="https://bfan.github.io/authors/yongcheng-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yongcheng Liu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Sun, 16 Jun 2019 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Yongcheng Liu</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>DensePoint: Learning Densely Contextual Representation for Efficient Point Cloud Processing</title>
+      <link>https://bfan.github.io/publication/conf-20-iccv2019-densepoint/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0800</pubDate>
+      <guid>https://bfan.github.io/publication/conf-20-iccv2019-densepoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Relation-Shape Convolutional Neural Network for Point Cloud Analysis</title>
-      <link>https://bfan.github.io/publication/4-cvpr2019-rscnn/</link>
+      <link>https://bfan.github.io/publication/conf-18-cvpr2019-rscnn/</link>
       <pubDate>Sun, 16 Jun 2019 00:00:00 +0800</pubDate>
-      <guid>https://bfan.github.io/publication/4-cvpr2019-rscnn/</guid>
+      <guid>https://bfan.github.io/publication/conf-18-cvpr2019-rscnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context-aware Cascade Network for Sematic Labeling in VHR Image</title>
+      <link>https://bfan.github.io/publication/conf-14-icip2017-casnet/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/conf-14-icip2017-casnet/</guid>
       <description></description>
     </item>
     

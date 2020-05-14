@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chunhong Pan | Bin Fan</title>
+    <title>Chunhong Pan | Bin Fan&#39;s Homepage</title>
     <link>https://bfan.github.io/authors/chunhong-pan/</link>
       <atom:link href="https://bfan.github.io/authors/chunhong-pan/index.xml" rel="self" type="application/rss+xml" />
     <description>Chunhong Pan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Chunhong Pan</title>
@@ -14,17 +14,17 @@
     
     <item>
       <title>Efficient Nearest Neighbor Search in High Dimensional Hamming Space</title>
-      <link>https://bfan.github.io/publication/3-pr2020/</link>
+      <link>https://bfan.github.io/publication/journal-20-pr2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/3-pr2020/</guid>
+      <guid>https://bfan.github.io/publication/journal-20-pr2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Triplet Adversarial Domain Adaptation for Pixel-level Classification of VHR Remote Sensing Images</title>
-      <link>https://bfan.github.io/publication/2-tgrs2020/</link>
+      <link>https://bfan.github.io/publication/journal-21-tgrs2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/2-tgrs2020/</guid>
+      <guid>https://bfan.github.io/publication/journal-21-tgrs2020/</guid>
       <description></description>
     </item>
     
@@ -53,6 +53,14 @@
     </item>
     
     <item>
+      <title>A Performance Evaluation of Local Features for Image Based 3D Reconstruction</title>
+      <link>https://bfan.github.io/publication/journal-19-tip2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-19-tip2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Relation-Shape Convolutional Neural Network for Point Cloud Analysis</title>
       <link>https://bfan.github.io/publication/conf-18-cvpr2019-rscnn/</link>
       <pubDate>Sun, 16 Jun 2019 00:00:00 +0800</pubDate>
@@ -73,6 +81,14 @@
       <link>https://bfan.github.io/publication/conf-15-icip2018/</link>
       <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://bfan.github.io/publication/conf-15-icip2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Labeling in Very High Resolution Images via A Self-Cascaded Convolutional Neural Network</title>
+      <link>https://bfan.github.io/publication/journal-18-isprs2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-18-isprs2018/</guid>
       <description></description>
     </item>
     

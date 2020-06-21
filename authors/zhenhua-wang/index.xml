@@ -5,20 +5,12 @@
     <link>https://bfan.github.io/authors/zhenhua-wang/</link>
       <atom:link href="https://bfan.github.io/authors/zhenhua-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhenhua Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Zhenhua Wang</title>
       <link>https://bfan.github.io/authors/zhenhua-wang/</link>
     </image>
-    
-    <item>
-      <title>Cayley-Klein Metric Learning with Shrinkage-Expansion Constraints</title>
-      <link>https://bfan.github.io/publication/conf-16-icpr2018/</link>
-      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/conf-16-icpr2018/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Exploring Local and Overall Ordinal Information for Robust Feature Description</title>

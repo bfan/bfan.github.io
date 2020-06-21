@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>https://bfan.github.io/tags/3d-point-cloud-processing/</loc>
-    <lastmod>2020-06-14T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bfan.github.io/publication/conf-22-cvpr2020/</loc>
     <lastmod>2020-06-14T00:00:00+08:00</lastmod>
   </url>
@@ -43,21 +38,6 @@
   </url>
   
   <url>
-    <loc>https://bfan.github.io/tags/convolutional-neural-networks/</loc>
-    <lastmod>2020-06-14T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/tags/deep-learning/</loc>
-    <lastmod>2020-06-14T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/tags/geometric-relation-learning/</loc>
-    <lastmod>2020-06-14T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bfan.github.io/publication_types/</loc>
     <lastmod>2020-06-14T00:00:00+08:00</lastmod>
   </url>
@@ -74,11 +54,6 @@
   
   <url>
     <loc>https://bfan.github.io/authors/shiming-xiang/</loc>
-    <lastmod>2020-06-14T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/tags/</loc>
     <lastmod>2020-06-14T00:00:00+08:00</lastmod>
   </url>
   
@@ -163,6 +138,11 @@
   </url>
   
   <url>
+    <loc>https://bfan.github.io/tags/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bfan.github.io/publication/journal-22-tgrs2020/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -238,22 +218,12 @@
   </url>
   
   <url>
-    <loc>https://bfan.github.io/tags/feature-descriptor/</loc>
-    <lastmod>2019-06-16T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bfan.github.io/authors/fuchao-wu/</loc>
     <lastmod>2019-06-16T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://bfan.github.io/authors/huub-heijnen/</loc>
-    <lastmod>2019-06-16T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/tags/image-matching/</loc>
     <lastmod>2019-06-16T00:00:00+08:00</lastmod>
   </url>
   
@@ -283,17 +253,12 @@
   </url>
   
   <url>
-    <loc>https://bfan.github.io/tags/local-feature/</loc>
-    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bfan.github.io/publication/conf-16-icpr2018/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bfan.github.io/authors/zhenhua-wang/</loc>
+    <loc>https://bfan.github.io/authors/yanhong-bi/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -315,6 +280,11 @@
   <url>
     <loc>https://bfan.github.io/authors/yi-yang/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/deep-learning/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -369,6 +339,21 @@
   
   <url>
     <loc>https://bfan.github.io/publication/conf-14-icip2017-casnet/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/feature-descriptor/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/image-matching/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bfan.github.io/tags/local-feature/</loc>
     <lastmod>2017-09-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -428,6 +413,11 @@
   </url>
   
   <url>
+    <loc>https://bfan.github.io/authors/zhenhua-wang/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bfan.github.io/publication/journal-9-tgrs2016/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -474,11 +464,6 @@
   
   <url>
     <loc>https://bfan.github.io/publication/conf-8-cvpr2015/</loc>
-    <lastmod>2015-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bfan.github.io/authors/yanhong-bi/</loc>
     <lastmod>2015-06-07T00:00:00+00:00</lastmod>
   </url>
   

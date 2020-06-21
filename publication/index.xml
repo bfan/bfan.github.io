@@ -5,7 +5,7 @@
     <link>https://bfan.github.io/publication/</link>
       <atom:link href="https://bfan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
@@ -13,170 +13,26 @@
     </image>
     
     <item>
-      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
-      <link>https://bfan.github.io/publication/journal-1-prl2011/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-1-prl2011/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
-      <link>https://bfan.github.io/publication/journal-10-tpami2016/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-10-tpami2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
-      <link>https://bfan.github.io/publication/journal-11-grsl2017/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-11-grsl2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
-      <link>https://bfan.github.io/publication/journal-12-tmm2017/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-12-tmm2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
-      <link>https://bfan.github.io/publication/journal-13-jstars2017/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-13-jstars2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
-      <link>https://bfan.github.io/publication/journal-14-tip2017/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-14-tip2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
-      <link>https://bfan.github.io/publication/journal-15-neurocomputing2017/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-15-neurocomputing2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
-      <link>https://bfan.github.io/publication/journal-16-tnnls2018/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-16-tnnls2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
-      <link>https://bfan.github.io/publication/journal-17-tits2018/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-17-tits2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
-      <link>https://bfan.github.io/publication/journal-2-pr2012/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-2-pr2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
-      <link>https://bfan.github.io/publication/journal-22-tcsvt2020/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-22-tcsvt2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
-      <link>https://bfan.github.io/publication/journal-3-tpami2012/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-3-tpami2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
-      <link>https://bfan.github.io/publication/journal-4-grsl2013/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-4-grsl2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
-      <link>https://bfan.github.io/publication/journal-4-isprs2014/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-4-isprs2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
-      <link>https://bfan.github.io/publication/journal-5-tip2014-rfd/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-5-tip2014-rfd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
-      <link>https://bfan.github.io/publication/journal-6-tip2014-um/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-6-tip2014-um/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
-      <link>https://bfan.github.io/publication/journal-7-grsl2015/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-7-grsl2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
-      <link>https://bfan.github.io/publication/journal-8-tvcg2016/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-8-tvcg2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Features Combined Binary Descriptor based on Voted Ring-sampling pattern</title>
-      <link>https://bfan.github.io/publication/journal-9-tgrs2016/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-9-tgrs2016/</guid>
+      <title>AugFPN: Improving Multi-scale Feature Learning for Object Detection</title>
+      <link>https://bfan.github.io/publication/conf-22-cvpr2020/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0800</pubDate>
+      <guid>https://bfan.github.io/publication/conf-22-cvpr2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Nearest Neighbor Search in High Dimensional Hamming Space</title>
-      <link>https://bfan.github.io/publication/journal-20-pr2020/</link>
+      <link>https://bfan.github.io/publication/journal-21-pr2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-20-pr2020/</guid>
+      <guid>https://bfan.github.io/publication/journal-21-pr2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Triplet Adversarial Domain Adaptation for Pixel-level Classification of VHR Remote Sensing Images</title>
-      <link>https://bfan.github.io/publication/journal-21-tgrs2020/</link>
+      <link>https://bfan.github.io/publication/journal-22-tgrs2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-21-tgrs2020/</guid>
+      <guid>https://bfan.github.io/publication/journal-22-tgrs2020/</guid>
       <description></description>
     </item>
     
@@ -206,9 +62,9 @@
     
     <item>
       <title>A Performance Evaluation of Local Features for Image Based 3D Reconstruction</title>
-      <link>https://bfan.github.io/publication/journal-19-tip2019/</link>
+      <link>https://bfan.github.io/publication/journal-20-tip2019/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-19-tip2019/</guid>
+      <guid>https://bfan.github.io/publication/journal-20-tip2019/</guid>
       <description></description>
     </item>
     
@@ -245,10 +101,34 @@
     </item>
     
     <item>
+      <title>Traffic Sign Recognition Using a Multi-Task Convolutional Neural Network</title>
+      <link>https://bfan.github.io/publication/journal-17-tits2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-17-tits2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Defense of Locality-Sensitive Hashing</title>
+      <link>https://bfan.github.io/publication/journal-19-tnnls2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-19-tnnls2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Semantic Labeling in Very High Resolution Images via A Self-Cascaded Convolutional Neural Network</title>
       <link>https://bfan.github.io/publication/journal-18-isprs2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://bfan.github.io/publication/journal-18-isprs2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greedy Batch-based Minimum-cost Flows for Tracking Multiple Objects</title>
+      <link>https://bfan.github.io/publication/journal-14-tip2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-14-tip2017/</guid>
       <description></description>
     </item>
     
@@ -277,10 +157,74 @@
     </item>
     
     <item>
+      <title>Ordinal Pyramid Coding for Rotation Invariant Feature Extraction</title>
+      <link>https://bfan.github.io/publication/journal-15-neurocomputing2017/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-15-neurocomputing2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aggregating Rich Hierarchical Features for Scene Classification in Remote Sensing Imagery</title>
+      <link>https://bfan.github.io/publication/journal-13-jstars2017/</link>
+      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-13-jstars2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Extraction by Rotation Invariant Matrix Representation for Object Detection in Aerial Image</title>
+      <link>https://bfan.github.io/publication/journal-12-grsl2017/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-12-grsl2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Modal Hashing via Rank-Order Preserving</title>
+      <link>https://bfan.github.io/publication/journal-16-tmm2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-16-tmm2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Local and Overall Ordinal Information for Robust Feature Description</title>
+      <link>https://bfan.github.io/publication/journal-10-tpami2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-10-tpami2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Multiple Feature Fusion with Hashing for Hyperspectral Imagery Classification: A Comparative Study</title>
+      <link>https://bfan.github.io/publication/journal-9-tgrs2016/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-9-tgrs2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Layer-wise Floorplan Extraction for Automatic Urban Building Reconstruction</title>
+      <link>https://bfan.github.io/publication/journal-11-tvcg2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-11-tvcg2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>kNN Hashing with Factorized Neighborhood Representation</title>
       <link>https://bfan.github.io/publication/conf-11-iccv2015/</link>
       <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://bfan.github.io/publication/conf-11-iccv2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminant Tensor Spectral-Spatial Feature Extraction for Hyperspectral Image Classification</title>
+      <link>https://bfan.github.io/publication/journal-8-grsl2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-8-grsl2015/</guid>
       <description></description>
     </item>
     
@@ -317,6 +261,30 @@
     </item>
     
     <item>
+      <title>Receptive Fields Selection for Binary Feature Description</title>
+      <link>https://bfan.github.io/publication/journal-6-tip2014-rfd/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-6-tip2014-rfd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structured Sparse Method for Hyperspetral Unmixing</title>
+      <link>https://bfan.github.io/publication/journal-5-isprs2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-5-isprs2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Registration of Optical and SAR Satellite Images by Exploring the Spatial Relationship of the Improved SIFT</title>
+      <link>https://bfan.github.io/publication/journal-4-grsl2013/</link>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-4-grsl2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FRIF: Fast Robust Invariant Feature</title>
       <link>https://bfan.github.io/publication/conf-5-bmvc2013/</link>
       <pubDate>Mon, 09 Sep 2013 00:00:00 +0000</pubDate>
@@ -333,10 +301,34 @@
     </item>
     
     <item>
+      <title>Rotationally Invariant Descriptors using Intensity Order Pooling</title>
+      <link>https://bfan.github.io/publication/journal-3-tpami2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-3-tpami2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Line Matching through Line-point Invariants</title>
+      <link>https://bfan.github.io/publication/journal-2-pr2012/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-2-pr2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Local Intensity Order Pattern for Feature Description</title>
       <link>https://bfan.github.io/publication/conf-4-iccv2011/</link>
       <pubDate>Sun, 06 Nov 2011 00:00:00 +0000</pubDate>
       <guid>https://bfan.github.io/publication/conf-4-iccv2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Reliable Matching of Images Containing Repetitive Patterns</title>
+      <link>https://bfan.github.io/publication/journal-1-prl2011/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-1-prl2011/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://bfan.github.io/authors/bin-fan/</link>
       <atom:link href="https://bfan.github.io/authors/bin-fan/index.xml" rel="self" type="application/rss+xml" />
     <description>**Bin Fan**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>**Bin Fan**</title>
@@ -14,17 +14,17 @@
     
     <item>
       <title>Efficient Nearest Neighbor Search in High Dimensional Hamming Space</title>
-      <link>https://bfan.github.io/publication/journal-20-pr2020/</link>
+      <link>https://bfan.github.io/publication/journal-21-pr2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-20-pr2020/</guid>
+      <guid>https://bfan.github.io/publication/journal-21-pr2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Triplet Adversarial Domain Adaptation for Pixel-level Classification of VHR Remote Sensing Images</title>
-      <link>https://bfan.github.io/publication/journal-21-tgrs2020/</link>
+      <link>https://bfan.github.io/publication/journal-22-tgrs2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-21-tgrs2020/</guid>
+      <guid>https://bfan.github.io/publication/journal-22-tgrs2020/</guid>
       <description></description>
     </item>
     
@@ -38,9 +38,9 @@
     
     <item>
       <title>A Performance Evaluation of Local Features for Image Based 3D Reconstruction</title>
-      <link>https://bfan.github.io/publication/journal-19-tip2019/</link>
+      <link>https://bfan.github.io/publication/journal-20-tip2019/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-19-tip2019/</guid>
+      <guid>https://bfan.github.io/publication/journal-20-tip2019/</guid>
       <description></description>
     </item>
     
@@ -85,10 +85,42 @@
     </item>
     
     <item>
+      <title>Cross-Modal Hashing via Rank-Order Preserving</title>
+      <link>https://bfan.github.io/publication/journal-16-tmm2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-16-tmm2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Multiple Feature Fusion with Hashing for Hyperspectral Imagery Classification: A Comparative Study</title>
+      <link>https://bfan.github.io/publication/journal-9-tgrs2016/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-9-tgrs2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Layer-wise Floorplan Extraction for Automatic Urban Building Reconstruction</title>
+      <link>https://bfan.github.io/publication/journal-11-tvcg2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-11-tvcg2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>kNN Hashing with Factorized Neighborhood Representation</title>
       <link>https://bfan.github.io/publication/conf-11-iccv2015/</link>
       <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://bfan.github.io/publication/conf-11-iccv2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminant Tensor Spectral-Spatial Feature Extraction for Hyperspectral Image Classification</title>
+      <link>https://bfan.github.io/publication/journal-8-grsl2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-8-grsl2015/</guid>
       <description></description>
     </item>
     
@@ -125,6 +157,30 @@
     </item>
     
     <item>
+      <title>Receptive Fields Selection for Binary Feature Description</title>
+      <link>https://bfan.github.io/publication/journal-6-tip2014-rfd/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-6-tip2014-rfd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structured Sparse Method for Hyperspetral Unmixing</title>
+      <link>https://bfan.github.io/publication/journal-5-isprs2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-5-isprs2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Registration of Optical and SAR Satellite Images by Exploring the Spatial Relationship of the Improved SIFT</title>
+      <link>https://bfan.github.io/publication/journal-4-grsl2013/</link>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-4-grsl2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FRIF: Fast Robust Invariant Feature</title>
       <link>https://bfan.github.io/publication/conf-5-bmvc2013/</link>
       <pubDate>Mon, 09 Sep 2013 00:00:00 +0000</pubDate>
@@ -141,10 +197,34 @@
     </item>
     
     <item>
+      <title>Rotationally Invariant Descriptors using Intensity Order Pooling</title>
+      <link>https://bfan.github.io/publication/journal-3-tpami2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-3-tpami2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Line Matching through Line-point Invariants</title>
+      <link>https://bfan.github.io/publication/journal-2-pr2012/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-2-pr2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Local Intensity Order Pattern for Feature Description</title>
       <link>https://bfan.github.io/publication/conf-4-iccv2011/</link>
       <pubDate>Sun, 06 Nov 2011 00:00:00 +0000</pubDate>
       <guid>https://bfan.github.io/publication/conf-4-iccv2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Reliable Matching of Images Containing Repetitive Patterns</title>
+      <link>https://bfan.github.io/publication/journal-1-prl2011/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-1-prl2011/</guid>
       <description></description>
     </item>
     

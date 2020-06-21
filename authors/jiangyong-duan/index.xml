@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiangyong Duan | Bin Fan&#39;s Homepage</title>
+    <link>https://bfan.github.io/authors/jiangyong-duan/</link>
+      <atom:link href="https://bfan.github.io/authors/jiangyong-duan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiangyong Duan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jiangyong Duan</title>
+      <link>https://bfan.github.io/authors/jiangyong-duan/</link>
+    </image>
+    
+    <item>
+      <title>Discriminant Tensor Spectral-Spatial Feature Extraction for Hyperspectral Image Classification</title>
+      <link>https://bfan.github.io/publication/journal-8-grsl2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-8-grsl2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

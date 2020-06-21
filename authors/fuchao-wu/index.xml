@@ -29,10 +29,26 @@
     </item>
     
     <item>
+      <title>Traffic Sign Recognition Using a Multi-Task Convolutional Neural Network</title>
+      <link>https://bfan.github.io/publication/journal-17-tits2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-17-tits2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>L2-Net: Deep Learning of Discriminative Patch Descriptor in Euclidean Space</title>
       <link>https://bfan.github.io/publication/conf-12-cvpr2017/</link>
       <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
       <guid>https://bfan.github.io/publication/conf-12-cvpr2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Local and Overall Ordinal Information for Robust Feature Description</title>
+      <link>https://bfan.github.io/publication/journal-10-tpami2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-10-tpami2016/</guid>
       <description></description>
     </item>
     
@@ -61,10 +77,34 @@
     </item>
     
     <item>
+      <title>Rotationally Invariant Descriptors using Intensity Order Pooling</title>
+      <link>https://bfan.github.io/publication/journal-3-tpami2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-3-tpami2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Line Matching through Line-point Invariants</title>
+      <link>https://bfan.github.io/publication/journal-2-pr2012/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-2-pr2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Local Intensity Order Pattern for Feature Description</title>
       <link>https://bfan.github.io/publication/conf-4-iccv2011/</link>
       <pubDate>Sun, 06 Nov 2011 00:00:00 +0000</pubDate>
       <guid>https://bfan.github.io/publication/conf-4-iccv2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Reliable Matching of Images Containing Repetitive Patterns</title>
+      <link>https://bfan.github.io/publication/journal-1-prl2011/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-1-prl2011/</guid>
       <description></description>
     </item>
     

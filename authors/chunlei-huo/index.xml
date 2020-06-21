@@ -14,9 +14,25 @@
     
     <item>
       <title>Triplet Adversarial Domain Adaptation for Pixel-level Classification of VHR Remote Sensing Images</title>
-      <link>https://bfan.github.io/publication/journal-21-tgrs2020/</link>
+      <link>https://bfan.github.io/publication/journal-22-tgrs2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-21-tgrs2020/</guid>
+      <guid>https://bfan.github.io/publication/journal-22-tgrs2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Defense of Locality-Sensitive Hashing</title>
+      <link>https://bfan.github.io/publication/journal-19-tnnls2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-19-tnnls2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Modal Hashing via Rank-Order Preserving</title>
+      <link>https://bfan.github.io/publication/journal-16-tmm2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-16-tmm2017/</guid>
       <description></description>
     </item>
     
@@ -25,6 +41,14 @@
       <link>https://bfan.github.io/publication/conf-11-iccv2015/</link>
       <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://bfan.github.io/publication/conf-11-iccv2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Registration of Optical and SAR Satellite Images by Exploring the Spatial Relationship of the Improved SIFT</title>
+      <link>https://bfan.github.io/publication/journal-4-grsl2013/</link>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-4-grsl2013/</guid>
       <description></description>
     </item>
     

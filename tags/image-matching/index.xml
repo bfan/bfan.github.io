@@ -117,10 +117,34 @@
     </item>
     
     <item>
+      <title>Rotationally Invariant Descriptors using Intensity Order Pooling</title>
+      <link>https://bfan.github.io/publication/journal-3-tpami2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-3-tpami2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Line Matching through Line-point Invariants</title>
+      <link>https://bfan.github.io/publication/journal-2-pr2012/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-2-pr2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Local Intensity Order Pattern for Feature Description</title>
       <link>https://bfan.github.io/publication/conf-4-iccv2011/</link>
       <pubDate>Sun, 06 Nov 2011 00:00:00 +0000</pubDate>
       <guid>https://bfan.github.io/publication/conf-4-iccv2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Reliable Matching of Images Containing Repetitive Patterns</title>
+      <link>https://bfan.github.io/publication/journal-1-prl2011/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-1-prl2011/</guid>
       <description></description>
     </item>
     

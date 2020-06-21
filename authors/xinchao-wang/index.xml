@@ -14,9 +14,25 @@
     
     <item>
       <title>A Performance Evaluation of Local Features for Image Based 3D Reconstruction</title>
-      <link>https://bfan.github.io/publication/journal-19-tip2019/</link>
+      <link>https://bfan.github.io/publication/journal-20-tip2019/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://bfan.github.io/publication/journal-19-tip2019/</guid>
+      <guid>https://bfan.github.io/publication/journal-20-tip2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greedy Batch-based Minimum-cost Flows for Tracking Multiple Objects</title>
+      <link>https://bfan.github.io/publication/journal-14-tip2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-14-tip2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Extraction by Rotation Invariant Matrix Representation for Object Detection in Aerial Image</title>
+      <link>https://bfan.github.io/publication/journal-12-grsl2017/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://bfan.github.io/publication/journal-12-grsl2017/</guid>
       <description></description>
     </item>
     
